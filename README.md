@@ -18,4 +18,4 @@ Built using HTML, CSS, and JavaScript
 
 ## Live Demo
 
-View the completed challenge at: https://main--testimonial-grid-section-fem.netlify.app/
+View the completed challenge at: https://main--frontendmentor-ping-coming-soon.netlify.app/
